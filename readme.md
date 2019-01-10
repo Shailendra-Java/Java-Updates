@@ -2,8 +2,8 @@
 1. - [x] forEach() method in Iterable interface
 2. - [x] default and static methods in Interfaces
 3. - [x] Functional Interfaces and Lambda Expressions
-4. - [ ] Java Stream API for Bulk Data Operations on Collections
-5. - [ ] Java Time API
+4. - [x] Java Stream API for Bulk Data Operations on Collections
+5. - [x] Java Time API
 - LocalDate
 - LocalTime
 - LocalDateTime
