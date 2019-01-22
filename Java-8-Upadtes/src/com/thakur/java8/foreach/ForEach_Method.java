@@ -6,6 +6,7 @@ import java.util.ListIterator;
 import java.util.Random;
 import java.util.function.Consumer;
 
+//Java 8 New Feature
 public class ForEach_Method {
 	public static void main(String args[]) {
 		List<Integer> list = new ArrayList<>();
